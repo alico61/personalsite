@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: Pacifico, serif;
+  color: #625772;
+}
+
+h3 {
+  margin: 0 auto 0 auto;
+  font-family: Open Sans, serif;
+  color: #625772;
+}
+
+hr {
+  margin-top: 0px;
+  width: 80%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #fefaec;
+  border-width: 5px;
+}
+
+.first-cloud {
+  position: absolute;
+  top: 100px;
+  right: 150px;
+}
+
+.second-cloud {
+  position: absolute;
+  left: 310px;
+}
+.third-cloud{
+  position: absolute;
+  left: 400px;
+}
+.fourth-cloud {
+  position: absolute;
+  right: 150px;
+}
+.fifth-cloud {
+  position: absolute;
+  left: 200px;
+}
+.mountain {
+  width: 35%
+}
+.main-paragraph{
+  color: #625772;
+  font-size: 24px;
+  font-family: Open Sans, serif;
+  margin: 0px;
+  padding: 8px;
+}
+.paragraph{
+  color: #625772;
+  font-size: 18px;
+  font-family: Open Sans, serif;
+  margin: 0px;
+  padding: 8px;
+}
+
+.myphoto {
+  width: 10%;
+}
+
+.top-container {
+  background-color: #a9eee6;
+  padding-top: 70px;
+}
+.middle-container{
+  background-color: #a9eee6;
+}
+.bottom-container{
+  background-color: #a9eee6;
+}
+.pro {
+  font-style: italic;
+}
+
+.skill-img {
+  width: 10%;
+}
+
+.social-medias {
+  width: 1%;
+}

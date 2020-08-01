@@ -1,12 +1,14 @@
 body {
   margin: 0;
   text-align: center;
+  background-color: #a9eee6;
 }
 
 h1 {
   margin: 0 auto 0 auto;
   font-family: Pacifico, serif;
   color: #625772;
+  font-size: 280%;
 }
 
 h3 {
@@ -22,6 +24,10 @@ hr {
   border-top-style: dotted;
   border-color: #fefaec;
   border-width: 5px;
+}
+
+a {
+  color: #625772;
 }
 
 .first-cloud {
@@ -69,22 +75,29 @@ hr {
 }
 
 .top-container {
-  background-color: #a9eee6;
+
   padding-top: 70px;
 }
 .middle-container{
-  background-color: #a9eee6;
+  background-color: white;
 }
 .bottom-container{
-  background-color: #a9eee6;
+
+}
+.skill-row {
+  margin: auto;
+  width: 50%;
+  line-height: 2;
 }
 .pro {
   font-style: italic;
 }
 
 .skill-img {
-  width: 10%;
+  width: 15%;
+
 }
+
 
 .social-medias {
   width: 1%;
